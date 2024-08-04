@@ -5,7 +5,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-GOOGLE_API_KEY = "AIzaSyAwvo8tsU9Jsxw9dcWk7qp7-iGZXZAGaWI"
+GOOGLE_API_KEY = ""
 genai.configure(api_key=GOOGLE_API_KEY)
 
 model = ChatGoogleGenerativeAI(model="gemini-pro",temperature=0.3, api_key=GOOGLE_API_KEY)
