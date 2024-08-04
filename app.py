@@ -8,7 +8,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import pysqlite3
 import sys
 
-sys.modules[sqlite3] = sys.modules.pop(pysqlite3)
+sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 st.set_page_config('Quran & Hadith Chatbot')
 
 def load_model(GOOGLE_API_KEY):
