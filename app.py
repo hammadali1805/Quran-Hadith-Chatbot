@@ -37,7 +37,7 @@ def load_model(GOOGLE_API_KEY):
 
 
     # query_result_template = """You are an AI assistant tasked with providing accurate answers based on the given context and your existing knowledge. Avoid providing incorrect or inappropriate answers.
-    query_result_template = """ Summarise the given context
+    query_result_template = """ Summarise the given context to answer the given query with refrences of Quran and Hadiths
 
     Context: {context}
 
