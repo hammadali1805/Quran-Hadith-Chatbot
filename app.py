@@ -5,7 +5,7 @@ from langchain.vectorstores import Chroma  # Or your chosen vector store
 from langchain.embeddings import HuggingFaceEmbeddings
 import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI
-# __import__('pysqlite3')
+__import__('pysqlite3')
 import sys
 
 sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
