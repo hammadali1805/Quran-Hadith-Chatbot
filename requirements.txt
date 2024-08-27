@@ -4,4 +4,3 @@ chromadb
 sentence-transformers
 google-generativeai
 langchain-google-genai
-sqlite3
