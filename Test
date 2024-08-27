@@ -1,21 +1,20 @@
-Define a class to represent a bank account. Include the following members:
-
-Data members
-(a) Name of the depositor
-(b) Account number
-(c) Type of account
-(d) Balance amount in the account
-
-Member functions
-(a) To assign initial values
-(b) To deposit an amount
-(c) To withdraw an amount after checking the balance
-(d) To display name and balance
-
-Write a main program to test the program.
+Bookstore Inventory System: 
+---------------------------------------------------
+Define a class to represent a book in a bookstore.
+-Data members:
+-Title of the book
+-Author
+-ISBN number
+-Price
+Member functions:
+-To assign initial values
+-To update the price of the book
+-To apply a discount to the book
+-To display the book’s details
 
 
-(i)  Implement the program to Handle a Single customer
-(ii) Extend the program to handle 3 customers
-(iii)Extend the program to implement Array of Objects(10 customers)
+(i)  Implement the program to Handle a Single Book
+(ii) Extend the program to handle 3 Books
+(iii)Extend the program to implement Array of Objects(10 Books)
 (iv) Make the program run until user want to exit.
+language to use is c++
