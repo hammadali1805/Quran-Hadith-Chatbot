@@ -29,7 +29,7 @@ The **AI-Powered Islamic Query Chatbot** is an AI-driven solution designed to he
 
 4. **Run the chatbot application**:
    ```
-   streamlit run main.py
+   streamlit run app.py
    ```
 
 ## How It Works
