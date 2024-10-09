@@ -16,7 +16,7 @@ The **AI-Powered Islamic Query Chatbot** is an AI-driven solution designed to he
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/hammadali1805/islamic_query_chatbot.git
+   git clone https://github.com/hammadali1805/Quran-Hadith-Chatbot.git
    ```
 
 2. **Install the required Python packages**:
